@@ -7,5 +7,6 @@ Backend для портфолио веб-разработчика
 - EntityFramework Core (MSSQL - localdb)
 - AutoMapper
 - FluentValidation
-> В планах сделать Frontend.
-> Добавить refresh token
+> В планах сделать Frontend,
+> добавить refresh token,
+> написать тесты.
