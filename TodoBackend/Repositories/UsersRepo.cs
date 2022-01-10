@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using System;
 using TodoApp.Backend.Repositories.Interfaces;
-using Microsoft.EntityFrameworkCore;
 
 namespace TodoApp.Backend.Repositories;
 

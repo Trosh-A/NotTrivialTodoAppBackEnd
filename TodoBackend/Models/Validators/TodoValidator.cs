@@ -1,5 +1,4 @@
 ﻿using FluentValidation;
-using Microsoft.Extensions.Options;
 using TodoApp.Backend.Constants;
 using TodoApp.Backend.Models.TodoModel;
 

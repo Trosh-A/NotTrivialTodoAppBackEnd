@@ -1,8 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using Microsoft.Extensions.Options;
 using TodoApp.Backend.Constants;
-using TodoApp.Backend.Models;
 using TodoApp.Backend.Models.TodoModel;
 
 namespace TodoApp.Backend.EFCore.Configurations;

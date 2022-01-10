@@ -1,6 +1,6 @@
-﻿using System;
-using AutoMapper;
+﻿using AutoMapper;
 using Microsoft.AspNetCore.Identity;
+using System;
 using TodoApp.Backend.Models.UserModel;
 
 namespace TodoApp.Backend.Models.AutoMapperProfiles;

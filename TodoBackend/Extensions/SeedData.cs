@@ -1,10 +1,9 @@
-﻿using System;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
 using NLog;
+using System;
+using System.Threading.Tasks;
 using TodoApp.Backend.EFCore;
 
 namespace TodoApp.Backend.Extensions;

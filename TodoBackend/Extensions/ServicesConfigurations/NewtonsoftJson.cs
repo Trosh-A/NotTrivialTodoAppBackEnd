@@ -1,6 +1,4 @@
-﻿using FluentValidation.AspNetCore;
-using Microsoft.Extensions.DependencyInjection;
-using TodoApp.Backend.Models.Validators;
+﻿using Microsoft.Extensions.DependencyInjection;
 
 namespace TodoApp.Backend.Extensions.ServicesConfigurations;
 
